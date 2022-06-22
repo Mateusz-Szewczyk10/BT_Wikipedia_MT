@@ -7,3 +7,7 @@
 2) Experiment with Neural Network Algorithms 15.08. Deadline
 3) Experiment with the results 15.09. Deadline
 4) Write the paper 15.10. Deadline
+
+2*)
+![image](https://user-images.githubusercontent.com/93585354/175116462-5ae377e1-7cb2-4d77-9726-5dd117537ce3.png)
+IEEE Zhang
