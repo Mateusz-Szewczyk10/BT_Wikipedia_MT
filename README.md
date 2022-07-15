@@ -12,8 +12,8 @@
 | Write the paper | In plans  | 02.10. | TBD | TBD |
 | Format the paper | In plans  | 09.10. | TBD | TBD |
 
-2*)
+Neural Network Algorithms Conserning Machine Translation*)
 ![image](https://user-images.githubusercontent.com/93585354/175116462-5ae377e1-7cb2-4d77-9726-5dd117537ce3.png)
-IEEE Zhang
+Source: Deep Neural Networks in Machine Translation: An Overview, IEEE Zhang
 
 
