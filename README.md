@@ -3,18 +3,17 @@
 
 ## Steps for the Bachelor Thesis
 
-1) Wikipedia Extraction - extract wikipedia titles in a way that they are connected (en <-> de translations) - 15.07. Deadline
-2) Experiment with Neural Network Algorithms 15.08. Deadline
-3) Experiment with the results 15.09. Deadline
-4) Write the paper 15.10. Deadline
+
+| Steps  | Status   | Due Date | Subtasks | Next Steps |
+|------|-------|-----|-----|-----|
+| Wikipedia Extraction | Ongoing  | 24.07 | a) Small Sample b) Large Dataset | Prepare the small sample |
+| Neural Network Algorithms   | In plans | 27.08. | TBD | TBD |
+| Experiment with results   | In plans  | 06.09. | TBD | TBD |
+| Write the paper | In plans  | 02.10. | TBD | TBD |
+| Format the paper | In plans  | 09.10. | TBD | TBD |
 
 2*)
 ![image](https://user-images.githubusercontent.com/93585354/175116462-5ae377e1-7cb2-4d77-9726-5dd117537ce3.png)
 IEEE Zhang
 
 
-| Steps  | Status   | Due Date | Subtasks | Next Steps |
-|------|-------|-----|-----|-----|
-| Wikipedia Extraction | dsds  | d   | | |
-| sd   | sddsd | sds | | |
-| sd   | dssd  | dsd | | |
