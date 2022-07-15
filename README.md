@@ -11,3 +11,10 @@
 2*)
 ![image](https://user-images.githubusercontent.com/93585354/175116462-5ae377e1-7cb2-4d77-9726-5dd117537ce3.png)
 IEEE Zhang
+
+
+| Steps  | Status   | Due Date | Subtasks | Next Steps |
+|------|-------|-----|-----|-----|
+| Wikipedia Extraction | dsds  | d   | | |
+| sd   | sddsd | sds | | |
+| sd   | dssd  | dsd | | |
