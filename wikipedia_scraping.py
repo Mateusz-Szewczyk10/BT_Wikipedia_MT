@@ -4,12 +4,13 @@ import requests
 import wikipedia
 
 print("START")
-pages = 500
+pages = 10
 titles = [wikipedia.random(1) for i in range(pages)]
 new_list = []
+
 print(titles)
-for i in titles:
-    new_list = new_list.append("'https://de.wikipedia.org/w/api.php?action=query&prop=langlinks&format=json&lllang=en&titles=" + titles + "'")
+
+new_list = ["'https://en.wikipedia.org/w/api.php?action=query&prop=langlinks&format=json&lllang=de&titles=" + str(x) + "'" for x in titles]
 
 print(new_list)
 
@@ -20,6 +21,5 @@ print(new_list)
 # json_api = response.json()
 
 #print(json_api["query"]["pages"]["9145"]["langlinks"][0]["*"])
-
 
 print("END")
