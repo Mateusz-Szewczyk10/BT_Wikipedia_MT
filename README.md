@@ -19,4 +19,4 @@ Source: Deep Neural Networks in Machine Translation: An Overview, IEEE Zhang
 | Meetings with the professor  | Time | Previous Notes | Notes | Next Steps |
 |------|-------|-----|-----|-----|
 | Meeting 1: Rethinking the idea | 15.06.  | Plan | Machine Learning from Wikipedia Lingually Interlinked Titles | Work on Wikipedia Scraping |
-| Meeting 2: Wikipedia Scraping | 21.07. | Wikipedia Scraping + Basic Algorithm Testing | TBD | TBD |
+| Meeting 2: Wikipedia Scraping | 21.07. | Wikipedia Scraping + Basic Algorithm Testing, Maybe change the agenda, I don't fully understand how to extract meaningful data from titles, also titles are rarely translatable (or their translations rarely change from english to german) | TBD | TBD |
