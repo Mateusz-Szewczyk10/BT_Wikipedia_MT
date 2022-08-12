@@ -7,7 +7,7 @@
 | Steps  | Status   | Due Date | Subtasks | Next Steps |
 |------|-------|-----|-----|-----|
 | Wikipedia Extraction | Ongoing  | 24.07. | a) Small Sample b) Large Dataset | Prepare the small sample |
-| Data Processing   | In plans | 16.08. | TBD | TBD |
+| Data Processing   | In plans | 16.08. | [TBD](https://stackabuse.com/python-for-nlp-neural-machine-translation-with-seq2seq-in-keras/) - Read this by 15.08. and understand what input will we need, also create an abstract and plan of what I am writing about | by 19.08. - understand the code for the algorithm and the algorithm itself |
 | Neural Network Algorithms   | In plans | 27.08. | TBD | TBD |
 | Experiment with results   | In plans  | 06.09. | TBD | TBD |
 | Write the paper | In plans  | 02.10. | TBD | TBD |
