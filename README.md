@@ -18,7 +18,7 @@
 |------|-------|-----|-----|-----|
 | Meeting 1: Rethinking the idea | 15.06.  | Plan | Machine Learning from Wikipedia Lingually Interlinked Titles | Work on Wikipedia Scraping |
 | Meeting 2: Wikipedia Scraping | 22.07. | Wikipedia Scraping + Basic Algorithm Testing, Maybe change the agenda, I don't fully understand how to extract meaningful data from titles, also titles are rarely translatable (or their translations rarely change from english to german) | - | 
-| Meeting 3: Beginning of algorithm | 16.08. | LSTM input preparation as well as first runs | - | 
+| Meeting 3: Beginning of algorithm | 31.08. | LSTM input preparation as well as first runs | ![image](https://user-images.githubusercontent.com/93585354/187726896-98e35f0e-257e-4bec-a870-e00313d1ed9f.png) |
 
 Long short-term memory
 BoW - Feed Forward
