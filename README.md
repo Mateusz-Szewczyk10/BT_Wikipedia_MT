@@ -27,3 +27,6 @@ Extract summaries from articles and put them through LSTM. |
 
 Amazing Tutorial on Neural Machine Translation in Keras and Python
 https://stackabuse.com/python-for-nlp-neural-machine-translation-with-seq2seq-in-keras/
+
+
+https://docs.python.org/3/library/pickle.html
