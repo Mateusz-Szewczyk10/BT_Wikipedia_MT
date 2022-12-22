@@ -1,5 +1,6 @@
 ﻿# Bachelor_Thesis_Wikipedia_Machine_Translation
 
+This repository includes the code implementation of my Bachelor Thesis. Below are some of the steps and notes I had in the process.
 
 ## Steps for the Bachelor Thesis
 
@@ -20,6 +21,7 @@
 | Meeting 2: Wikipedia Scraping | 22.07. | Wikipedia Scraping + Basic Algorithm Testing, Maybe change the agenda, I don't fully understand how to extract meaningful data from titles, also titles are rarely translatable (or their translations rarely change from english to german) | - | 
 | Meeting 3: Beginning of algorithm | 31.08. | LSTM input preparation as well as first runs | ![image](https://user-images.githubusercontent.com/93585354/187726896-98e35f0e-257e-4bec-a870-e00313d1ed9f.png) |
 
+Notes:
 Long short-term memory
 BoW - Feed Forward
 
